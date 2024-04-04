@@ -1,6 +1,4 @@
-# PowerA-Luxurous-Hotel-Bookings-Dashboard
-
-# Comprehensive Analysis of Brazilian E-Commerce Companies
+# A Comprehensive Transaction Analysis Dashboard for a Luxurious Chained-Hotel Conglomerate
 
 ## Table of Contents
 
