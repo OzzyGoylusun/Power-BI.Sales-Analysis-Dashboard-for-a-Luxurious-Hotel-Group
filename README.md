@@ -45,7 +45,8 @@ EDA involved exploring the commercial data to answer some key questions, includi
 
 ### Data Analysis
 
-As part of my Order Analysis series, I created a major customised table that brings together orders, which category they are part of and their purchase time by customers.
+As part of my Transaction Analysis series, I first imported the dataset at hand
+
 
 
 ### Findings
