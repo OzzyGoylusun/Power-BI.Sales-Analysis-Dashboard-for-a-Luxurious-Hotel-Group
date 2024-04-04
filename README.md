@@ -1,4 +1,4 @@
-# A Comprehensive Transaction Analysis Dashboard for a Luxurious Chained-Hotel Conglomerate
+# A Comprehensive Transaction Analysis Dashboard for a Luxurious Chained-Brand Hotel
 
 ## Table of Contents
 
