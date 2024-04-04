@@ -25,9 +25,9 @@ This Power BI Dashboard project is intended to assist a chained-brand hotel cong
 
 ### Tools
 
-- PostgreSQL Server - Data Manipulation and Analysis
-  - [Download here](https://www.postgresql.org/download/)
-- Excel - Data Visualisation 
+- Power BI Desktop - Data Manipulation, Analysis and Visualisation
+  - [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- Excel - Data Manipulation
   - [Download here](https://microsoft.com)
 
 ### Data Preparation
