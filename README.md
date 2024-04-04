@@ -21,7 +21,7 @@ This Power BI Dashboard project is intended to assist a chained-brand hotel cong
 
 ### Data Sources
 
-Transaction Data: The dataset utilised for this analysis and visualisation piece is hotel_bookings.xlsx, containing detailed information about each booking transaction.
+Booking Transaction Data: The dataset utilised for this analysis and visualisation piece is hotel_bookings.xlsx, containing detailed information about each booking transaction.
 
 ### Tools
 
