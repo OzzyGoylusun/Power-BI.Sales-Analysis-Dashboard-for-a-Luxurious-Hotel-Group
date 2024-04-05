@@ -22,6 +22,12 @@ The first page of the dashboard includes a number of key metrics per hotel categ
 - Polluted Conversion Rate (inc. Non-Refundable Bookings)
 - Distribution of Market Segments and Conversion Channels
 
+<p align="left">
+  <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Dashboard%201st%20Page.png"
+ alt="Olist" width=300>
+</p>
+
+
 
 
 
