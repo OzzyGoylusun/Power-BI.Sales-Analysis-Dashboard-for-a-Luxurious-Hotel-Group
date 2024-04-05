@@ -9,7 +9,7 @@
 
 ### Project Overview
 ---
-This Power BI Dashboard project is intended to assist a chained-brand hotel conglomerate with its strategies for customer acquisition and retention as well as a comprehensive analysis of each sales transaction.
+This Power BI Dashboard project is intended to assist a chained-brand hotel conglomerate with its strategies for customer acquisition and retention as well as a comprehensive analysis of each sales transaction that took place between 2015 and 2017.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Hotel%20Logo.jpeg"
@@ -57,7 +57,9 @@ Booking Transaction Data: The dataset utilised for this analysis and visualisati
 
 In the initial data preparation phase, I performed the following tasks:
 
-1. Database creation from scratch
+1. Inspecting and investigating the dataset
+2. Importing of the dataset into the Power BI ecosystem
+3. A number of data manipulation tasks
 
 ### Exploratory Data Analysis
 
