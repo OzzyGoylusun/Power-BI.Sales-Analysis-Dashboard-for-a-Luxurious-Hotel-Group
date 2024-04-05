@@ -11,8 +11,11 @@
 ---
 This Power BI Dashboard project is intended to assist a chained-brand hotel conglomerate with its strategies for customer acquisition and retention as well as a comprehensive analysis of each sales transaction.
 
-
-
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Hotel%20Logo.jpeg"
+ alt="Hotel Logo"
+ width=250>
+</p>
 
 The first page of the dashboard includes a number of key metrics per hotel category, such as:
 
@@ -20,8 +23,11 @@ The first page of the dashboard includes a number of key metrics per hotel categ
 - Polluted Conversion Rate (inc. Non-Refundable Bookings)
 - Distribution of Market Segments and Conversion Channels
 
-
-
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Dashboard%201st%20Page.png"
+ alt="Dashboard 1st Page"
+ width=750>
+</p>
 
 
 ### Data Sources
