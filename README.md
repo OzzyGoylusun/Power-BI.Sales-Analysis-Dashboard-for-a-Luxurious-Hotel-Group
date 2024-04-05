@@ -41,7 +41,6 @@ The second page of the dashboard takes a more granular approach, zeroing on
  width=850>
 </p>
 
-
 ### Data Sources
 
 Booking Transaction Data: The dataset utilised for this analysis and visualisation piece is hotel_bookings.xlsx, containing detailed information about each booking transaction.
@@ -66,6 +65,8 @@ In the initial data preparation phase, I performed the following tasks:
 EDA involved exploring the commercial data to answer some key questions, including but not limited to:
 
 - What is the overall sales trend over these three years?
+- How do the Year-over-Year and Month-over-Month % growth rates look?
+- Which countries and travel agents performed the best in terms of attracting most number of guests during this period and also each year?
 
 
 ### Data Analysis
