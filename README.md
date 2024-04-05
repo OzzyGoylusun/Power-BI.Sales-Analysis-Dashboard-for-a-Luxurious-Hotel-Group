@@ -73,7 +73,7 @@ EDA involved exploring the commercial data to answer some key questions, includi
 
 ### Data Analysis
 
-After investigating, importing and manipulating certain sections of the dataset, I decided to write a DAX function that would enable to calculate all sales YTD (i.e, year-to-date) as well as YoY %.
+After investigating, importing and manipulating certain sections of the dataset, I decided to write a customised DAX function that would enable to calculate all sales YTD (i.e, year-to-date) and PY (i.e., prior year) in order to demonstrate YoY %.
 
 ```dax
 Sales YTD = 
@@ -83,6 +83,10 @@ CALCULATE(
     [Total Sales], 
     VALUE('Calendar'[Year]) = MaxYear
 )
+```
+
+```dax
+YoY % = DIVIDE([Sales YTD]-[Sales PY], [Sales PY], 0)
 ```
 
 ### Findings
