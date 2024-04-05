@@ -35,7 +35,7 @@ The second page of the dashboard takes a more granular approach, zeroing on
 - The sales figures from the angle of countries and agents responsible for bookings
 - YoY % and MoM % Growth Rates
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Dashboard%202nd%20Page.png"
  alt="Dashboard 2nd Page"
  width=850>
