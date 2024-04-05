@@ -96,15 +96,17 @@ The critical analysis results are summarised as follows:
 1. Approximately **97% of all guests** turn out to be **first timers**. While this figure may be rather appealing from a customer acquisition point of view, it runs the risk of leading to an alarming customer churn rate for the corporation, should it fail to convert them into loyal guests.
 2. The average duration of stay jumped from **3.54 days** in September 2015 to **5.29 days** in September 2017, highlighting an elevated level of demand from the guests towards the end of summer seasons.
 3. Approximately **80% of all bookings** derive from **travel agents and tour operators**, instead of the hotel's own channels.
+4. As a chained-brand hotel group based in Europe, the majority of its guests have come from **Portugal,  Great Britain, France, Germany and Spain.**
 
 
 ### Recommendations
 
 Based on the analysis, I recommend the following actions:
 
-- Invest further in brand building, marketing and promotions to, for instance, reverse back the declining trend in order count starting from November 2017 onwards, as shown below:
+- Invest further in brand building, marketing and promotions to, for instance,
 - Further promote relationships with the company's all travel agents and tour operators.
-- 
+- X
+- Concentrate more marketing efforts in the US, Canada and Australia to attract prospective customers, in an attempt to lead the brand to globally grow and drive further sales.
 
   
 ### Limitations
