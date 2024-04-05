@@ -104,9 +104,8 @@ The critical analysis results are summarised as follows:
 Based on the analysis, I recommend the following actions:
 
 - Invest further in brand building, marketing and promotions to, for instance,
--
+- Time and align specific marketing activities 100 days ahead of both summer and winter seasons to appeal and hence bring in more guests to the hotel group.
 - Further promote relationships with the company's all travel agents and tour operators.
-- X
 - Concentrate more marketing efforts in the US, Canada and Australia to attract prospective customers, in an attempt to lead the brand to globally grow beyond Europe and drive further sales.
 
   
