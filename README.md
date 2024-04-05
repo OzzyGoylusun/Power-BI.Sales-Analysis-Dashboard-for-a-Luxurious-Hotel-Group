@@ -9,7 +9,6 @@
 
 ### Project Overview
 ---
-
 This Power BI Dashboard project is intended to assist a chained-brand hotel conglomerate with its strategies for customer acquisition and retention as well as a comprehensive analysis of each sales transaction.
 
 <p align="center">
@@ -17,7 +16,14 @@ This Power BI Dashboard project is intended to assist a chained-brand hotel cong
  alt="Olist" width=400>
 </p>
 
-[A further brief summary] [image]
+The first page of the dashboard includes a number of key metrics per hotel category, such as:
+
+- Average Duration of Stay, Daily Rate & Lead Time
+- Polluted Conversion Rate (inc. Non-Refundable Bookings)
+- Distribution of Market Segments and Conversion Channels
+
+
+
 
 ### Data Sources
 
@@ -53,7 +59,7 @@ As part of my Transaction Analysis series, I first imported the dataset at hand
 
 The critical analysis results are summarised as follows:
 
-1. X
+1. Approximately 97% of all guests turn out to be first timers. While this figure may seem appealing from a customer acquisition point of view
 
 
 ### Recommendations
@@ -61,6 +67,8 @@ The critical analysis results are summarised as follows:
 Based on the analysis, I recommend the following actions:
 
 - Invest further in brand building, marketing and promotions to, for instance, reverse back the declining trend in order count starting from November 2017 onwards, as shown below:
+- Further promote relationships with the company's all travel agents and tour operators.
+- 
 
   
 ### Limitations
