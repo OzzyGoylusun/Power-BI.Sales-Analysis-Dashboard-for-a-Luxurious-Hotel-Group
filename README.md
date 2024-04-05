@@ -31,6 +31,7 @@ The first page of the dashboard includes a number of key metrics per hotel categ
 
 The second page of the dashboard takes a more granular approach, zeroing on
 
+- Cumulative Sum
 - The sales figures from the angle of countries and agents responsible for bookings
 - YoY % and MoM % Growth Rates
 
