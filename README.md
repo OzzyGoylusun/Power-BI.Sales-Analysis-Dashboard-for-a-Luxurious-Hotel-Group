@@ -95,7 +95,7 @@ The critical analysis results are summarised as follows:
 
 1. Approximately **97% of all guests** turn out to be **first timers**. While this figure may be rather appealing from a customer acquisition point of view, it runs the risk of leading to an alarming customer churn rate for the corporation, should it fail to convert them into loyal guests.
 2. The average duration of stay jumped from **3.54 days** in September 2015 to **5.29 days** in September 2017, highlighting an elevated level of demand from the guests towards the end of summer seasons.
-3. 
+3. Approximately **80% of all bookings** derive from **travel agents and tour operators**, instead of the hotel's own channels.
 
 
 ### Recommendations
