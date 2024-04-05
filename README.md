@@ -114,3 +114,5 @@ Based on the analysis, I recommend the following actions:
 As the dataset was based upon a static file, it is inherently deprived of any prospective data which might impact subsequent strategical and/or tactical decisions that the hotel conglomerate may undertake.
 
 ### References
+
+No references needed as part of this project.
