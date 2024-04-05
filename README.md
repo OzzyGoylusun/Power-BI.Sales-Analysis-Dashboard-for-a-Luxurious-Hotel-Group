@@ -72,7 +72,7 @@ EDA involved exploring the commercial data to answer some key questions, includi
 
 ### Data Analysis
 
-As part of my Transaction Analysis series, I first imported the dataset at hand
+After importing, investigating and manipulating certain sections of the dataset, I 
 
 
 
