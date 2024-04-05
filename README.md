@@ -65,7 +65,7 @@ In the initial data preparation phase, I performed the following tasks:
 EDA involved exploring the commercial data to answer some key questions, including but not limited to:
 
 - What is the overall sales trend over these three years?
-- How do the Year-over-Year and Month-over-Month % growth rates look?
+- How do the YoY (i.e., Year-over-Year) and MoM % growth rates look?
 - Which countries and travel agents performed the best in terms of attracting most number of guests during this period and also each year?
 
 
