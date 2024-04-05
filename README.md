@@ -73,12 +73,16 @@ EDA involved exploring the commercial data to answer some key questions, includi
 
 ### Data Analysis
 
-After investigating, importing and manipulating certain sections of the dataset, I had to 
+After investigating, importing and manipulating certain sections of the dataset, I decided to write a DAX function that would enable to calculate all sales YTD (i.e, year-to-date) as well as YoY %.
 
-```sql
-...
-ghjghj
-...
+```dax
+Sales YTD = 
+VAR MaxYear = YEAR(MAX('Calendar'[Date]))
+RETURN 
+CALCULATE(
+    [Total Sales], 
+    VALUE('Calendar'[Year]) = MaxYear
+)
 ```
 
 ### Findings
