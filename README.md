@@ -24,7 +24,9 @@ The first page of the dashboard includes a number of key metrics per hotel categ
 
 <p align="left">
   <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Dashboard%201st%20Page.png"
- alt="Olist" width=900>
+       alt="Olist" 
+       width="900" 
+       style="border-radius: 10px;">
 </p>
 
 
