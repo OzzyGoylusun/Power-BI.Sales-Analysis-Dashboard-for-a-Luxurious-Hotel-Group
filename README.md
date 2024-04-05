@@ -11,12 +11,12 @@
 ---
 This Power BI Dashboard project is intended to assist a chained-brand hotel conglomerate with its strategies for customer acquisition and retention as well as a comprehensive analysis of each sales transaction.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Hotel%20Logo.jpeg"
  alt="Olist" width=200>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/hotel-services-004-512.webp"
  alt="Olist" width=200>
 </p>
