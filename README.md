@@ -13,7 +13,7 @@ This Power BI Dashboard project is intended to assist a chained-brand hotel cong
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Luxury%20Hotel%20Icon.jpeg"
- alt="Olist" width=300>
+ alt="Olist" width=200>
 </p>
 
 The first page of the dashboard includes a number of key metrics per hotel category, such as:
