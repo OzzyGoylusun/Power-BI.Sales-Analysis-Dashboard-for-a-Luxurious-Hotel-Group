@@ -59,6 +59,7 @@ In the initial data preparation phase, I performed the following tasks:
 1. Inspecting and investigating the dataset
 2. Importing of the dataset into the Power BI ecosystem
 3. A number of data manipulation tasks
+4. Data modelling to ensure consistency between the actual and customised table
 
 ### Exploratory Data Analysis
 
@@ -72,9 +73,13 @@ EDA involved exploring the commercial data to answer some key questions, includi
 
 ### Data Analysis
 
-After importing, investigating and manipulating certain sections of the dataset, I 
+After investigating, importing and manipulating certain sections of the dataset, I had to 
 
-
+```sql
+...
+ghjghj
+...
+```
 
 ### Findings
 
