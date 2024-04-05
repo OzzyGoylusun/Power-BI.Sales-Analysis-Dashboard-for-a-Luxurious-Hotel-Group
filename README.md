@@ -93,7 +93,8 @@ YoY % = DIVIDE([Sales YTD]-[Sales PY], [Sales PY], 0)
 
 The critical analysis results are summarised as follows:
 
-1. Approximately 97% of all guests turn out to be first timers. While this figure may seem appealing from a customer acquisition point of view
+1. Approximately 97% of all guests turn out to be first timers. While this figure may be rather appealing from a customer acquisition point of view, it runs the risk of leading to an alarming customer churn rate for the corporation, should it fail to convert them into loyal guests.
+2. 
 
 
 ### Recommendations
