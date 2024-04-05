@@ -17,7 +17,7 @@ This Power BI Dashboard project is intended to assist a chained-brand hotel cong
 </p>
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Concierge%20Logo.png"
+  <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/hotel-services-004-512.webp"
  alt="Olist" width=200>
 </p>
 
