@@ -75,7 +75,7 @@ EDA involved exploring the commercial data to answer some key questions, includi
 
 ### Data Analysis
 
-After investigating, importing and manipulating certain sections of the dataset, I decided to write a customised DAX function that would enable to calculate all sales YTD (i.e, year-to-date) and PY (i.e., prior year) in order to demonstrate YoY %, which was crucial to highlight potential fluctuations in sales figures in years as well as in certain seasons:
+After investigating, importing and manipulating certain sections of the dataset, I needed to resort to writing various customised DAX measures that would enable me to calculate all sales YTD (i.e, year-to-date) and also PY (i.e., prior year) in order to demonstrate the YoY % growth rate, which was crucial to highlight potential fluctuations in sales figures between years as well as amongst certain seasons:
 
 ```dax
 Sales YTD = 
