@@ -34,7 +34,7 @@ The first page of the dashboard includes a number of key metrics overall and als
 The second page of the dashboard takes a more granular approach, zeroing on
 
 - Cumulative Sum of All Sales
-- Sales figures from the angle of countries and agents responsible for bookings
+- Sales Figures of Countries and Agents responsible for bookings
 - YoY % and MoM % Growth Rates
 
 <p align="left">
@@ -45,7 +45,7 @@ The second page of the dashboard takes a more granular approach, zeroing on
 
 ### Data Sources
 
-Booking Transaction Data: The dataset utilised for this analysis and visualisation piece is hotel_bookings.xlsx, containing detailed information about each booking transaction.
+Booking Transaction Data: The dataset utilised for this analysis and visualisation work is called hotel_bookings.xlsx, containing very detailed information about each booking transaction.
 
 ### Tools
 
@@ -58,10 +58,10 @@ Booking Transaction Data: The dataset utilised for this analysis and visualisati
 
 In the initial data preparation phase, I performed the following tasks:
 
-1. Inspecting and investigating the dataset
-2. Importing of the dataset into the Power BI ecosystem
-3. A number of data manipulation tasks
-4. Data modelling to ensure consistency between the actual and customised table
+1. Inspecting the dataset at hand
+2. Importing the dataset into the Power BI ecosystem
+3. Undertaking a number of data manipulation tasks
+4. Performing data modelling to ensure consistency between the actual and subsequent customised tables
 
 ### Exploratory Data Analysis
 
