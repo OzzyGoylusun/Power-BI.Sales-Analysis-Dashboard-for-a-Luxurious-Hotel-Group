@@ -1,4 +1,4 @@
-# A Sales Analysis Dashboard for a Luxurious Chained-Brand Hotel
+# Comprehensive Sales Analysis Dashboard for a Luxurious Chained-Brand Hotel
 
 ## Table of Contents
 
