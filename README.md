@@ -19,7 +19,7 @@ This Power BI Dashboard project is intended to assist a chained-brand hotel cong
 
 In this respect, a two-paged interactive dashboard with slicers and filters was put together, including **critical KPIs, pie & donut charts, line & bar graphs** as well as **waterfall charts and a map graph** to highlight the YoY % growth rates and best performing countries thus far in terms of sales.
 
-The first page of the dashboard includes a number of key metrics per hotel category, such as:
+The first page of the dashboard includes a number of key metrics overall and also per hotel category, such as:
 
 - Average Duration of Stay, Daily Rate & Lead Time
 - Polluted Conversion Rate (inc. Non-Refundable Bookings)
@@ -33,8 +33,8 @@ The first page of the dashboard includes a number of key metrics per hotel categ
 
 The second page of the dashboard takes a more granular approach, zeroing on
 
-- Cumulative Sum
-- The sales figures from the angle of countries and agents responsible for bookings
+- Cumulative Sum of All Sales
+- Sales figures from the angle of countries and agents responsible for bookings
 - YoY % and MoM % Growth Rates
 
 <p align="left">
