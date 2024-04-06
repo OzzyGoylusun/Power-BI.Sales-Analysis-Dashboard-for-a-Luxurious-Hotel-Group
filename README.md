@@ -19,7 +19,7 @@ This Power BI Dashboard project is intended to assist a chained-brand hotel cong
 
 In this respect, a two-paged interactive dashboard with slicers and filters was put together, including **critical KPIs, pie & donut charts, line & bar graphs** as well as **waterfall charts and a map graph** to highlight the YoY % growth rates and best performing countries thus far in terms of sales.
 
-The first page of the dashboard includes a number of key metrics overall and also per hotel category, such as:
+The first page of the dashboard includes a number of key metrics overall and also per each hotel category, such as:
 
 - Average Duration of Stay, Daily Rate & Lead Time
 - Polluted Conversion Rate (inc. Non-Refundable Bookings)
@@ -95,7 +95,7 @@ YoY % = DIVIDE([Sales YTD]-[Sales PY], [Sales PY], 0)
 
 The critical analysis results are summarised as follows:
 
-1. Approximately **97% of all guests** turn out to be **first timers**. While this figure may be rather appealing from a customer acquisition point of view, it runs the risk of leading to an alarming customer churn rate for the corporation, should it fail to convert them into loyal guests.
+1. Approximately **97% of all guests** turn out to be **first timers**. While this figure may be rather appealing from a customer acquisition point of view, it runs the great risk of leading to an alarming customer churn rate for the corporation in future, should it fail to convert them into loyal guests.
 2. Customers tend to book reservations roughly **100 days** earlier toward both summer and winter seasons.
 3. Approximately **80% of all bookings** derive from **travel agents and tour operators**, instead of the hotel's own channels.
 4. As a chained-brand hotel group based in Europe, the majority of its guests have come from **Portugal,  Great Britain, France, Germany and Spain.**
