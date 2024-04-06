@@ -17,7 +17,7 @@ This Power BI Dashboard project is intended to assist a chained-brand hotel cong
  width=250>
 </p>
 
-In this respect, a two-paged interactive dashboard with slicers and filters was put together, including **critical KPIs, pie/donut charts, line graphs as well as a map graph to highlight the best performing countries in terms of sales.
+In this respect, a two-paged interactive dashboard with slicers and filters was put together, including **critical KPIs, pie/donut charts, line graphs** as well as **a map graph** to highlight the best performing countries thus far in terms of sales.
 
 The first page of the dashboard includes a number of key metrics per hotel category, such as:
 
