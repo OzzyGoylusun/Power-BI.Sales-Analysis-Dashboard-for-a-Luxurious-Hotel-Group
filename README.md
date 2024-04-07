@@ -66,7 +66,7 @@ In the initial data preparation phase, I performed the following tasks:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the commercial data to answer some key questions, including but not limited to:
+EDA involved exploring the transaction data to answer some key questions, including but not limited to:
 
 - What is the overall sales trend over these three years?
 - What are the yearly trends for average duration stay and daily rate?
