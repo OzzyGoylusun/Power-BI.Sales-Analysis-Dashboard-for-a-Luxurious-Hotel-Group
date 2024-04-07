@@ -18,9 +18,9 @@ A comprehensive analysis of each sales transaction that took place between the y
  width=250>
 </p>
 
-In this respect, a two-paged interactive dashboard with slicers and filters was put together, including **critical KPIs, pie & donut charts, line & bar graphs** as well as **waterfall charts and a map graph** to highlight the YoY % growth rates and best performing countries thus far in terms of sales.
+In this respect, a two-paged interactive dashboard with slicers and filters was put together, including **critical KPIs, pie & donut charts, line & bar graphs** as well as **waterfall charts and a map graph** to highlight the YoY % growth rates and best performing countries thus far in terms of generating sales.
 
-The first page of the dashboard includes a number of key metrics overall and also per each hotel category, such as:
+To be more specific, the first page of the dashboard includes a number of key metrics overall and also per each hotel category, such as:
 
 - Average Duration of Stay, Daily Rate & Lead Time
 - Polluted Conversion Rate (inc. Non-Refundable Bookings)
