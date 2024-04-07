@@ -6,7 +6,6 @@
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 
-
 ### Project Overview
 ---
 This Power BI Dashboard project is intended to assist a chained-brand hotel conglomerate with its strategies for customer acquisition and retention as well as numerous methods to increase revenue. A comprehensive analysis of each sales transaction that took place between the years of **2015 and 2017** was undertaken in an effort to most effectively meet the project objectives.
@@ -72,7 +71,6 @@ EDA involved exploring the commercial data to answer some key questions, includi
 - How do the YoY (i.e., Year-over-Year) and MoM % growth rates look?
 - Which countries and travel agents performed the best in terms of attracting most number of guests during this period and also each year?
 
-
 ### Data Analysis
 
 After investigating, importing and manipulating certain sections of the dataset, I needed to resort to writing various customised DAX measures that would enable me to calculate all sales YTD (i.e, year-to-date) and also PY (i.e., prior year) in order to demonstrate the YoY % growth rate, which was crucial to highlight potential fluctuations in sales figures between years as well as amongst certain seasons:
@@ -95,25 +93,23 @@ YoY % = DIVIDE([Sales YTD]-[Sales PY], [Sales PY], 0)
 
 The critical analysis results are summarised as follows:
 
-1. Approximately **97% of all guests** turn out to be **first timers**. While this figure may be rather appealing from a customer acquisition point of view, it runs the great risk of leading to an alarming customer churn rate for the corporation in future, should it fail to convert them into loyal guests.
-2. Customers tend to book reservations roughly **100 days** earlier toward both summer and winter seasons.
-3. Approximately **80% of all bookings** derive from **travel agents and tour operators**, instead of the hotel's own channels.
-4. As a chained-brand hotel group based in Europe, the majority of its guests have come from **Portugal,  Great Britain, France, Germany and Spain.**
-
+1. Approximately **97% of all guests** turn out to be **first timers**. While this figure may be rather appealing from a customer acquisition point of view, it runs the risk of leading to an alarming customer churn rate for the corporation in future, should it fail to convert them into loyal guests.
+2. Customers tend to book their reservations roughly **100 days** earlier ahead of both summer and winter seasons.
+3. Approximately **80% of all bookings** source from both offline and online channels of **external travel agents and tour operators** with which the firm cooperates.
+4. As a chained-brand hotel group based in Europe, the majority of its guests have come from **Portugal,  Great Britain, France, Germany and Spain**.
 
 ### Recommendations
 
-Based on the analysis, I recommend the following actions:
+Based on the analysis above, I recommend the following actions:
 
-- Invest in brand building and particular customer retention strategies to minimise the damage resulting from a potential high churn rate.
-- Time and align specific marketing activities 100 days ahead of both summer and winter seasons to appeal and hence bring in the maximum number of guests possible to the hotel group.
-- Further promote relationships with the company's all travel agents and tour operators.
-- Concentrate more marketing efforts in the US, Canada and Australia to attract prospective customers, in an attempt to lead the brand to globally grow beyond Europe and drive further sales.
+- Invest in particular brand building and customer retention strategies to minimise the damage resulting from a potential high churn rate of the first timers.
+- Time and align marketing activities a minimum of 120-150 days ahead of both the summer and winter seasons to bring in the highest number of guests possible to the hotel group.
+- Begin creating and fostering the hotel group's own distribution channels of sales while strengthening the relationships with the company's all travel agents and tour operators.
+- Concentrate more marketing efforts in the US, Canada and Australia to attract prospective customers, in an attempt to lead the brand to globally grow beyond Europe and to drive further sales.
 
-  
 ### Limitations
 
-As the dataset was based upon a static file, it is inherently deprived of any prospective data which might impact subsequent strategical and/or tactical decisions that the hotel conglomerate may undertake.
+As the dataset was based upon a static excel file, it is inherently deprived of any prospective data which can impact subsequent strategical and/or tactical decisions that the hotel conglomerate may choose to undertake.
 
 ### References
 
