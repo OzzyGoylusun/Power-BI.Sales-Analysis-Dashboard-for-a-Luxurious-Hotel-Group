@@ -53,7 +53,7 @@ The second page of the dashboard takes a more granular approach, zeroing on
 - Power BI Desktop - Data Manipulation, Analysis and Visualisation
   - [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Excel - Data Manipulation
-  - [Download here](https://microsoft.com)
+  - [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### Data Preparation
 
