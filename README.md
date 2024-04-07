@@ -8,7 +8,7 @@
 
 ### Project Overview
 ---
-This Power BI Dashboard project is intended to assist a chained-brand hotel conglomerate with its strategies for customer acquisition and retention as well as numerous methods to increase revenue. 
+This Power BI Dashboard project is intended to assist a chained-brand hotel conglomerate with its strategies for **customer acquisition and retention** as well as numerous methods **to increase revenue**. 
 
 A comprehensive analysis of each sales transaction that took place between the years of **2015 and 2017** was taken as a basis in an effort to most effectively meet the project objectives described above.
 
