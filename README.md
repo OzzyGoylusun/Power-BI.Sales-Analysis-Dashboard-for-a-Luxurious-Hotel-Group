@@ -46,7 +46,7 @@ The second page of the dashboard takes a more granular approach, zeroing on
 
 ### Data Sources
 
-Booking Transaction Data: The dataset utilised for this analysis and visualisation work is called **hotel_bookings.xlsx**, containing very detailed information about each booking transaction.
+*Booking Transaction Data:* The dataset utilised for this analysis and visualisation work is called **hotel_bookings.xlsx**, containing very detailed information about each booking transaction.
 
 ### Tools
 
