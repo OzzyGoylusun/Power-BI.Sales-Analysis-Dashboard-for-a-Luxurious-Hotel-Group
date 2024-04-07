@@ -103,7 +103,7 @@ The critical analysis results are summarised as follows:
 Based on the analysis above, I recommend the following actions:
 
 - Invest in particular brand building and customer retention strategies to minimise the damage resulting from a potential high churn rate of the first timers.
-- Time and align marketing activities a minimum of 120-150 days ahead of both the summer and winter seasons to bring in the highest number of guests possible to the hotel group.
+- Align marketing activities a minimum of 120-150 days ahead of both the summer and winter seasons to bring in the highest number of guests possible to the hotel group.
 - Begin creating and fostering the hotel group's own distribution channels of sales while strengthening the relationships with the company's all travel agents and tour operators.
 - Consider concentrating more marketing efforts in the US, Canada and Australia to attract prospective customers, in an attempt to lead the brand to globally grow beyond Europe and to drive further sales.
 
