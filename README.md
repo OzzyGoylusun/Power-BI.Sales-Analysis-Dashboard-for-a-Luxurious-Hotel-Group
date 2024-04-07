@@ -36,7 +36,7 @@ The second page of the dashboard takes a more granular approach, zeroing on
 
 - Cumulative Sum of All Sales
 - Sales Figures of Countries and Agents responsible for bookings
-- YoY % and MoM % Growth Rates
+- YoY % (i.e., Year-over-Year) and MoM % (i.e., Month-over-Month) Growth Rates
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Power-BI.-A-Luxurous-Hotel-Bookings-Dashboard/blob/main/Visuals/Dashboard%202nd%20Page.png"
@@ -69,9 +69,9 @@ In the initial data preparation phase, I performed the following tasks:
 EDA involved exploring the transaction data to answer some key questions, including but not limited to:
 
 - What is the overall sales trend over these three years?
-- What are the yearly trends for average duration stay and daily rate?
-- How do the YoY (i.e., Year-over-Year) and MoM % growth rates look?
-- Which countries and travel agents performed the best in terms of attracting most number of guests during this period and also each year?
+- What are the yearly trends for average duration stay and average daily rate?
+- How do the YoY and MoM % growth rates look?
+- Which countries and travel agents performed the best in terms of attracting most number of guests during this period?
 
 ### Data Analysis
 
