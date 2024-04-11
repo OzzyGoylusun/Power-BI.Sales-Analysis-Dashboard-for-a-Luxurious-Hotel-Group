@@ -88,7 +88,7 @@ CALCULATE(
 ```
 
 ```dax
-YoY % = DIVIDE([Sales YTD]-[Sales PY], [Sales PY], 0)
+YoY % = DIVIDE([Sales YTD]-[Sales PY], [Sales PY], 0) * 100
 ```
 
 ### Findings
